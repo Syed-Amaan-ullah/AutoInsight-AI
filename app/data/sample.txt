@@ -1,0 +1,26 @@
+This is a sample document for testing the RAG pipeline.
+It contains some text that can be used to answer questions.
+The pipeline will load this document, create embeddings, and store them in FAISS.
+Then, it can retrieve relevant information based on queries.
+
+Major EV Companies in India:
+
+1. Tata Motors - One of India's largest automobile manufacturers, Tata has been actively developing electric vehicles. Their popular EV models include Tata Nexon EV, Tata Tigor EV, and Tata Tiago EV. Tata is also working on commercial EVs like the Tata Ace EV.
+
+2. Mahindra Electric - A subsidiary of Mahindra Group, this company focuses exclusively on electric vehicles. Their key models include Mahindra e2o, Mahindra e-Verito, and the Mahindra Treo electric three-wheeler.
+
+3. Ola Electric - Founded by Bhavish Aggarwal, Ola Electric is a major player in the Indian EV market. They produce electric scooters like Ola S1 and are expanding into electric cars with plans for affordable EVs.
+
+4. Ather Energy - Ather produces premium electric scooters and has gained significant market share in India's two-wheeler EV segment. Their flagship model is the Ather 450X.
+
+5. Hero Electric - One of the oldest EV manufacturers in India, Hero Electric specializes in electric scooters and bikes. They offer models like Hero Electric Optima and Photon.
+
+6. TVS Motor Company - TVS has entered the EV space with electric scooters and is developing electric two-wheelers and three-wheelers for the Indian market.
+
+7. Bajaj Auto - Bajaj has launched the Bajaj Chetak electric scooter and is working on expanding their EV portfolio.
+
+8. Hyundai Motor India - Hyundai offers electric vehicles like the Hyundai Kona Electric and Hyundai IONIQ 5 in India.
+
+9. MG Motor India - MG offers the MG ZS EV, an electric SUV that has been popular in the Indian market.
+
+10. BYD India - Chinese manufacturer BYD has entered the Indian market with electric buses and plans for passenger vehicles.
